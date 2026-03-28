@@ -118,5 +118,5 @@ That is also why I spend time on platforms like **Hack The Box** and **TryHackMe
 ---
 
 <div align="center">
-  <sub>Built with a focus on clarity, security, and maintainable systems.</sub>
+  <sub>Clean systems. Scalable architecture. Minimal complexity.</sub>
 </div>
