@@ -98,7 +98,7 @@ That is also why I spend time on platforms like **Hack The Box** and **TryHackMe
 
 <div align="center">
   <a href="https://www.revaliant.de/" target="_blank"><img src="https://img.shields.io/badge/Revaliant-001A33?style=for-the-badge&color=ffffff" alt="Revaliant" /></a>
-  <a href="https://www.linkedin.com/in/yannick-immler-56651a2b5" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/yannick-immler" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:yannick.immler@revaliant.de"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/Yxnnxck" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
