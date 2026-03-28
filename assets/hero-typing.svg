@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="90" viewBox="0 0 920 90" role="img" aria-label="Animated intro">
+  <style>
+    svg {
+      background: transparent;
+    }
+
+    text {
+      font-family: "Fira Code", monospace;
+      font-size: 24px;
+      font-weight: 500;
+      text-anchor: middle;
+      dominant-baseline: middle;
+      opacity: 0;
+    }
+
+    .line {
+      animation-duration: 25s;
+      animation-iteration-count: infinite;
+      animation-timing-function: ease-in-out;
+    }
+
+    .l1 { fill: #03A9F4; animation-name: line1; }
+    .l2 { fill: #8BC249; animation-name: line2; }
+    .l3 { fill: #E73052; animation-name: line3; }
+    .l4 { fill: #FF7F00; animation-name: line4; }
+    .l5 { fill: #673AB7; animation-name: line5; }
+
+    @keyframes line1 {
+      0%   { opacity: 1; }
+      17%  { opacity: 1; }
+      19%  { opacity: 0; }
+      100% { opacity: 0; }
+    }
+
+    @keyframes line2 {
+      0%   { opacity: 0; }
+      19%  { opacity: 0; }
+      20%  { opacity: 1; }
+      37%  { opacity: 1; }
+      39%  { opacity: 0; }
+      100% { opacity: 0; }
+    }
+
+    @keyframes line3 {
+      0%   { opacity: 0; }
+      39%  { opacity: 0; }
+      40%  { opacity: 1; }
+      57%  { opacity: 1; }
+      59%  { opacity: 0; }
+      100% { opacity: 0; }
+    }
+
+    @keyframes line4 {
+      0%   { opacity: 0; }
+      59%  { opacity: 0; }
+      60%  { opacity: 1; }
+      77%  { opacity: 1; }
+      79%  { opacity: 0; }
+      100% { opacity: 0; }
+    }
+
+    @keyframes line5 {
+      0%   { opacity: 0; }
+      79%  { opacity: 0; }
+      80%  { opacity: 1; }
+      97%  { opacity: 1; }
+      99%  { opacity: 0; }
+      100% { opacity: 0; }
+    }
+  </style>
+
+  <text x="460" y="45" class="line l1">Software Engineer · Co-Founder at Revaliant</text>
+  <text x="460" y="45" class="line l2">Backend · Infrastructure · Cybersecurity</text>
+  <text x="460" y="45" class="line l3">Machine Learning · Agentic Systems</text>
+  <text x="460" y="45" class="line l4">Building clean software that reduces complexity</text>
+  <text x="460" y="45" class="line l5">Occasionally questioning my own code at 2am</text>
+</svg>
