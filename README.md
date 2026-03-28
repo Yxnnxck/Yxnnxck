@@ -50,13 +50,7 @@ I believe security should be considered early in the lifecycle, not added as a l
 That is also why I spend time on platforms like **Hack The Box** and **TryHackMe**: to keep sharpening practical security awareness, attack surface thinking, and hands-on problem solving beyond everyday development work.
 
 <p align="center">
-  <a href="https://profile.hackthebox.com/profile/019d345f-e4d3-71fb-affa-2693a3b4efc3">
-    <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Hack The Box" />
-  </a>
-  
-  <a href="https://tryhackme.com/p/Yxnnxck?tab=badges">
-    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
-  </a>
+  <a href="https://profile.hackthebox.com/profile/019d345f-e4d3-71fb-affa-2693a3b4efc3"><img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Hack The Box" /></a><a href="https://tryhackme.com/p/Yxnnxck?tab=badges"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
 </p>
 
 
