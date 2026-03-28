@@ -50,7 +50,8 @@ I believe security should be considered early in the lifecycle, not added as a l
 That is also why I spend time on platforms like **Hack The Box** and **TryHackMe**: to keep sharpening practical security awareness, attack surface thinking, and hands-on problem solving beyond everyday development work.
 
 <p align="center">
-  <a href="https://profile.hackthebox.com/profile/019d345f-e4d3-71fb-affa-2693a3b4efc3"><img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Hack The Box" /></a><a href="https://tryhackme.com/p/Yxnnxck?tab=badges"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
+  <a href="https://profile.hackthebox.com/profile/019d345f-e4d3-71fb-affa-2693a3b4efc3"><img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Hack The Box" /></a>
+  <a href="https://tryhackme.com/p/Yxnnxck?tab=badges"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
 </p>
 
 
@@ -96,21 +97,10 @@ That is also why I spend time on platforms like **Hack The Box** and **TryHackMe
 ## Connect
 
 <div align="center">
-  <a href="https://www.revaliant.de/" target="_blank">
-    <img src="https://img.shields.io/badge/Revaliant-001A33?style=for-the-badge&color=ffffff" alt="Revaliant" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/yannick-immler-56651a2b5" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-
-  <a href="mailto:yannick.immler@revaliant.de">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-
-  <a href="https://github.com/Yxnnxck" target="_blank">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <a href="https://www.revaliant.de/" target="_blank"><img src="https://img.shields.io/badge/Revaliant-001A33?style=for-the-badge&color=ffffff" alt="Revaliant" /></a>
+  <a href="https://www.linkedin.com/in/yannick-immler-56651a2b5" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:yannick.immler@revaliant.de"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Yxnnxck" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
 
 ---
